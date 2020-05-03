@@ -1,0 +1,1 @@
+<view><view class="ntu_text"><text>{{ntu}}</text></view></view>

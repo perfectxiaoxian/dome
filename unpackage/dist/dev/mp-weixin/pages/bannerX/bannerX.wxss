@@ -1,0 +1,14 @@
+.bannerX {
+  width: 100%;
+  text-align: center;
+  padding-top: 20rpx;
+}
+.ntu_text {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 32rpx;
+  line-height: 53rpx;
+  color: #666666;
+  padding: 20rpx 36rpx 0;
+}
+

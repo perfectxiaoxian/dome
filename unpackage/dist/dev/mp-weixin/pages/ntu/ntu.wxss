@@ -1,0 +1,10 @@
+.ntu_text {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 32rpx;
+  line-height: 53rpx;
+  color: #666666;
+  padding: 0 36rpx;
+  padding-top: 50rpx;
+}
+

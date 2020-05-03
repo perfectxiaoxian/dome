@@ -1,0 +1,24 @@
+
+.content.data-v-f37c416a {
+	/* display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center; */
+}
+.body-top.data-v-f37c416a {
+	width: 100%;
+	font-size: 26rpx;
+	color: #666666;
+	background-color: #EBEBEB;
+	padding: 0 70rpx;
+	box-sizing: border-box;
+	margin-bottom: 50rpx;
+}
+.body-content.data-v-f37c416a {
+	padding: 20rpx 70rpx 0;
+	box-sizing: border-box;
+	font-size: 34rpx;
+	color: #333;
+	line-height: 60rpx;
+}
+

@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/register/register",
+    "pages/retrieve/retrieve",
+    "pages/ntu/ntu",
+    "pages/index/sss",
+    "pages/index/xinshou",
+    "pages/index/shangwu",
+    "pages/bannerX/bannerX"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

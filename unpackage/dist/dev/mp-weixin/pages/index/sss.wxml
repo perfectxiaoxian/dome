@@ -1,0 +1,1 @@
+<view class="content data-v-44f1945b"><view class="body-top data-v-44f1945b">{{'最近更新：'+nut.create_time+''}}</view><view class="body-content data-v-44f1945b"><text style="display:flex;flex-direction:column;font-size:30rpx;color:#666666;" class="data-v-44f1945b">{{nut.rang_name}}</text></view></view>

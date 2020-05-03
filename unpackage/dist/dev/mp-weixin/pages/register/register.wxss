@@ -1,0 +1,76 @@
+.register.data-v-54fa3014 {
+  width: 750rpx;
+}
+.register .rlogo.data-v-54fa3014 {
+  width: 100%;
+  height: 144rpx;
+  padding-top: 136rpx;
+  text-align: center;
+}
+.register .rlogo image.data-v-54fa3014 {
+  width: 144rpx;
+  height: 144rpx;
+}
+.register .formbtn.data-v-54fa3014 {
+  width: 610rpx;
+  margin: 0 auto;
+  font-size: 28rpx;
+  padding-top: 72rpx;
+}
+.register .formbtn .formput.data-v-54fa3014 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  line-height: 80rpx;
+  border-bottom: 1rpx solid #f3f3f3;
+}
+.register .formbtn .formput.data-v-54fa3014:nth-of-type(n+2) {
+  margin-top: 18rpx;
+}
+.register .formbtn .formput.data-v-54fa3014:nth-of-type(2n-1) {
+  padding-bottom: 10rpx;
+}
+.register .formbtn input.data-v-54fa3014 {
+  line-height: 80rpx;
+  color: #999999;
+  padding-left: 16rpx;
+  height: 80rpx;
+  width: 470rpx;
+}
+.register .formbtn .verification input.data-v-54fa3014 {
+  width: 294rpx;
+}
+.register .formbtn .verification .verification_code.data-v-54fa3014 {
+  color: #00a2ff;
+}
+.register .formbtn button.data-v-54fa3014 {
+  margin-top: 25rpx;
+}
+.register .formbtn .notice_to_users.data-v-54fa3014 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  line-height: 90rpx;
+}
+.register .formbtn .notice_to_users .radio.data-v-54fa3014 {
+  width: 35rpx;
+  height: 35rpx;
+  padding-top: 9rpx;
+}
+.register .formbtn .notice_to_users .radio image.data-v-54fa3014 {
+  width: 100%;
+  height: 100%;
+}
+.register .formbtn .notice_to_users .ntu.data-v-54fa3014 {
+  color: #00a2ff;
+}
+.register .formbtn .goLogin.data-v-54fa3014 {
+  color: #007AFF;
+  font-size: 34rpx;
+  margin-top: 38rpx;
+  text-align: center;
+}
+

@@ -1,0 +1,1 @@
+<view class="content data-v-1921c7e0"><view class="body-top data-v-1921c7e0">最近更新：2020-08-09</view><block wx:for="{{nut}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="body-content data-v-1921c7e0">{{''+item.rang_name+''}}</view></block></view>

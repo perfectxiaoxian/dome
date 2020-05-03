@@ -1,0 +1,72 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/retrieve/retrieve",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/ntu/ntu",
+			"style": {
+				"navigationBarTitleText": "用户注册须知",
+				"navigationBarBackgroundColor": "#fff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+
+		{
+			"path": "pages/index/sss",
+			"style": {
+				"navigationBarTitleText": "邀请规则",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/index/xinshou",
+			"style": {
+				"navigationBarTitleText": "新手指南",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/index/shangwu",
+			"style": {
+				"navigationBarTitleText": "商务对接",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		}
+
+	    ,{
+            "path" : "pages/bannerX/bannerX",
+            "style" : {
+				"navigationBarTitleText":"详情介绍",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

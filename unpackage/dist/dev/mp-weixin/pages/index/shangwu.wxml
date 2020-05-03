@@ -1,0 +1,1 @@
+<view class="content data-v-f37c416a"><view class="body-content data-v-f37c416a"><view class="data-v-f37c416a">{{'公司名称：'+sW.company_name+''}}</view><view class="data-v-f37c416a">{{'联系电话：'+sW.company_phone+''}}</view><view class="data-v-f37c416a">{{'北京地址：'+sW.company_addr+''}}</view><view class="data-v-f37c416a">{{'商务合作：'+sW.company_mailbox+''}}</view></view></view>
